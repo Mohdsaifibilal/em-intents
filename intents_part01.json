@@ -1,1 +1,46 @@
-
+{
+  "meta": {
+    "part": 1,
+    "intent_count": 38,
+    "category": "confusion_uncertainty"
+  },
+  "intents": [
+    { "id": "confusion_general", "examples": ["I am confused", "Nothing is clear", "I don't know what to do", "Everything feels unclear"] },
+    { "id": "confusion_future", "examples": ["I am confused about my future", "My future feels unclear", "I feel lost about the future"] },
+    { "id": "confusion_career", "examples": ["I am confused about my career", "I don't know which career to choose"] },
+    { "id": "confusion_studies", "examples": ["I am confused about my studies", "I don't know what to study"] },
+    { "id": "confusion_decision", "examples": ["I can't decide", "I am stuck between choices"] },
+    { "id": "confusion_direction", "examples": ["I feel directionless", "I don't know which direction to go"] },
+    { "id": "confusion_priority", "examples": ["I don't know what to do first", "Everything feels important"] },
+    { "id": "confusion_overthinking", "examples": ["I am overthinking", "My mind won't stop"] },
+    { "id": "confusion_expectations", "examples": ["Family expectations confuse me", "I feel pressure from expectations"] },
+    { "id": "confusion_comparison", "examples": ["I compare myself to others", "Comparison makes me confused"] },
+    { "id": "confusion_identity", "examples": ["I don't know who I am", "I feel confused about myself"] },
+    { "id": "confusion_role", "examples": ["I don't know my role", "I am confused about my role"] },
+    { "id": "confusion_responsibility", "examples": ["Responsibilities confuse me", "I feel overwhelmed by responsibilities"] },
+    { "id": "confusion_commitment", "examples": ["I am scared to commit", "Commitment feels confusing"] },
+    { "id": "confusion_change", "examples": ["Change scares me", "I am unsure about change"] },
+    { "id": "confusion_choice_two", "examples": ["I have two options", "I am stuck between two choices"] },
+    { "id": "confusion_long_term", "examples": ["I don't know my long term plan", "Long term thinking confuses me"] },
+    { "id": "confusion_short_term", "examples": ["I don't know what to do now", "I feel stuck right now"] },
+    { "id": "confusion_goals", "examples": ["My goals are unclear", "I don't know my goals"] },
+    { "id": "confusion_motivation", "examples": ["I don't know what motivates me", "I lack motivation clarity"] },
+    { "id": "confusion_logic_emotion", "examples": ["Heart and mind clash", "Logic and emotions confuse me"] },
+    { "id": "confusion_values", "examples": ["I am confused about my values", "I question my beliefs"] },
+    { "id": "confusion_timing", "examples": ["I don't know if this is the right time", "Timing confuses me"] },
+    { "id": "confusion_pressure", "examples": ["Pressure is confusing me", "Too much pressure affects me"] },
+    { "id": "confusion_conflict", "examples": ["I have conflicting thoughts", "My thoughts clash"] },
+    { "id": "confusion_expectation_gap", "examples": ["Reality doesn't match expectations", "Expectation gap confuses me"] },
+    { "id": "confusion_identity_role", "examples": ["I don't know who I should be", "I feel lost about my role"] },
+    { "id": "confusion_path", "examples": ["I don't know which path to choose", "Many paths confuse me"] },
+    { "id": "confusion_family", "examples": ["Family pressure confuses me", "Family issues confuse me"] },
+    { "id": "confusion_society", "examples": ["Society confuses me", "Social pressure affects me"] },
+    { "id": "confusion_self_trust", "examples": ["I don't trust my decisions", "I doubt myself"] },
+    { "id": "confusion_failure_fear", "examples": ["Fear of failure blocks me", "I am scared to fail"] },
+    { "id": "confusion_success_fear", "examples": ["Success scares me", "I fear handling success"] },
+    { "id": "confusion_next_step", "examples": ["I don't know the next step", "What should I do next"] },
+    { "id": "confusion_life_stage", "examples": ["I feel confused about my life stage", "This phase of life confuses me"] },
+    { "id": "confusion_identity_crisis", "examples": ["I feel identity crisis", "I am unsure of myself"] },
+    { "id": "confusion_overload", "examples": ["Too much information confuses me", "I feel mentally overloaded"] }
+  ]
+}
